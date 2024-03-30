@@ -32,7 +32,7 @@
 
 ## Feedback & Support
 
-If you have any feedback or Issue, please reach out to us at bobiboten530@gmail.com
+If you have any feedback or Issue, please reach out to us at cartonush@gmail.com
 
 
 ## License
